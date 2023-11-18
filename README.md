@@ -3,6 +3,9 @@
 <h3 align="center">A passionate full_stack web developer from Nigeria</h3>
 https://iconscout.com/lottie-animation/freelance-developer-working-on-laptop-4337850
 
+
+<p align="left"><img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/freelance-developer-working-on-laptop-4337850" alt="demenkesh" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demenkesh&label=Profile%20views&color=0e75b6&style=flat" alt="demenkesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demenkesh" alt="demenkesh" /></a> </p>
