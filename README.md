@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm UMEH ONYEDIKA EMMANUEL</h1>
 
 <h3 align="center">A passionate full_stack web developer from Nigeria</h3>
-<p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="demenkesh" /></p>
+<p align="center"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="demenkesh" /></p>
 
 
 
