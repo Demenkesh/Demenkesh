@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm UMEH ONYEDIKA EMMANUEL</h1>
 
 <h3 align="center">A passionate full_stack web developer from Nigeria</h3>
-https://iconscout.com/lottie-animation/freelance-developer-working-on-laptop-4337850
 
 
-<p align="left"><img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/freelance-developer-working-on-laptop-4337850" alt="demenkesh" /></p>
+<p align="left"> <img align="right" alt="Coding" width="400" src="[https://iconscout.com/lottie-animation/freelance-developer-working-on-laptop-4337850](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Fprogram-tester&psig=AOvVaw3v62LeAE88M0mQ4oJ8DjCT&ust=1700434321055000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjM7M_RzoIDFQAAAAAdAAAAABAF)" alt="demenkesh" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demenkesh&label=Profile%20views&color=0e75b6&style=flat" alt="demenkesh" /> </p>
 
