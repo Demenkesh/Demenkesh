@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/demen28206792" target="blank"><img src="https://img.shields.io/twitter/follow/demen28206792?logo=twitter&style=for-the-badge" alt="demen28206792" /></a> </p>
 
-- 🔭 I’m currently working on [Multi_tenancy ecommerce website](https://megascrypto.com/)
+- 🔭 I’m currently working on [Multi_tenancy ecommerce website]
 
 - 🌱 I’m currently working with **laravel_php, javascript ,etc**
 
