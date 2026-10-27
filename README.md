@@ -55,7 +55,7 @@
 
 ### 🚀 Projects & Ventures
 
-- **[Demen Tech Enterprises](https://dement ech.com.ng)** — Digital solutions, software development, and business automation.
+- **[Demen Tech Enterprises](https://dementech.com.ng)** — Digital solutions, software development, and business automation.
 - **[Peakmuv](https://peakmuv.com)** — A SaaS platform for marketing, messaging, automation, and customer engagement.
 - **Airroamify** — An eSIM and virtual-number platform.
 
