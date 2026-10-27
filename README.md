@@ -20,7 +20,7 @@
 
 - 💻 I'm a Software Engineer specializing in **PHP, Laravel, WordPress, and full-stack web development**.
 - 🏢 Founder of **Demen Tech Enterprises** — building digital solutions that help businesses innovate, build, and scale.
-- 🌐 Website: [dement ech.com.ng](https://dement ech.com.ng)
+- 🌐 Website: [dementech.com.ng](https://dementech.com.ng)
 - 🔭 Building SaaS products, business automation tools, APIs, and multi-tenant applications.
 - 📱 Interested in messaging platforms, WhatsApp automation, VoIP, communication APIs, and AI-powered business solutions.
 - 🌱 Continuously learning and building scalable, secure, and maintainable software.
