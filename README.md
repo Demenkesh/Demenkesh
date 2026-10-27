@@ -26,7 +26,7 @@
 - 🌱 Continuously learning and building scalable, secure, and maintainable software.
 - 💬 Ask me about Laravel, PHP, REST APIs, WordPress development, SaaS architecture, and integrations.
 - 👨‍💻 Explore my projects: [GitHub](https://github.com/Demenkesh)
-- 📫 Email: [business@dement ech.com.ng](mailto:business@dement ech.com.ng)
+- 📫 Email: [business@dementech.com.ng](mailto:business@dementech.com.ng)
 
 ### 🛠️ Languages and Technologies
 
